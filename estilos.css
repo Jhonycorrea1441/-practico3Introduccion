@@ -1,0 +1,90 @@
+.carousel{
+    height: 700px;
+}
+
+.carousel2{
+    height: 500px;
+    width: auto;
+}
+
+.carousel p{
+    font-size: 22px;
+    font-family: 'Bree Serif', serif;
+}
+
+.fondo{
+background-image:url("img/Fondo2.png");
+height: 400px;
+background-attachment: fixed;
+background-position: center;
+background-size: contain;
+}
+
+
+.zoom{
+    transition: transform .2s;
+}
+
+.zoom:hover{
+    transform: scale(1.1);
+}
+
+.contenedorpadre{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Bree Serif', serif;
+    margin: 20px, auto;
+}
+
+.contenedorpadre h1{
+    font-family: 'Francois One', sans-serif;
+    font-family: 'Sail', cursive;
+    font-family: 'Sancreek', cursive;;
+}
+
+
+.ancho{
+    width: 200%;  
+}
+
+.enlace{
+    color: white;
+    text-decoration: none;
+}
+
+.enlace:hover{
+    color: white;
+    text-decoration: none;
+    opacity: 0.5;
+}
+
+.enlacer{
+    color: rgb(8, 7, 24);
+    text-decoration: none;
+}
+
+.enlacer:hover{
+    color: rgb(8, 11, 26);
+    text-decoration: none;
+    opacity: 0.5;
+}
+
+.videos{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+
+.informacion{
+    text-align: justify;
+
+}
+
+.fondo1{
+background-image:url("img/fondomusic1.jpg");
+height: 600px;
+background-attachment: fixed;
+background-position: center;
+background-size: contain;
+}
+
